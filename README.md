@@ -13,9 +13,9 @@ Clone the repository:
 git  clone  https://github.com/your-username/ProcessModuleScanner.git
 
 cd  ProcessModuleScanner
-
-Install  the  required  packages:
-
+```
+**Install  the  required  packages:**
+```
 pip  install  -r  requirements.txt
 ```
 **Run**
